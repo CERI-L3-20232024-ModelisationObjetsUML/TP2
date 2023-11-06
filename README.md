@@ -1,6 +1,6 @@
 # Modélisation Objets
 
-### TP2
+### TP2 - Étude d'un système de gestion d'accès
 
 Vous déposerez les modèles au format mdj que vous ferez évoluer au fur et à mesure de votre travail *en faisant des commits réguliers*.
 Pour le dépôt final, il vous est demandé de déposer vos modèles au format PDF. 
